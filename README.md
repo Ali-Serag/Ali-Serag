@@ -2,9 +2,7 @@
 
 #### Projects under my belt:
 <ul>
-  <li><a href="رابط_مشروعك_الأول" target="_blank" rel="noopener noreferrer">اسم_مشروعك_الأول</a> - وصف سريع للمشروع ومميزاته [product]</li>
-  <li><a href="رابط_مشروعك_التاني" target="_blank" rel="noopener noreferrer">اسم_مشروعك_التاني</a> - وصف سريع للمشروع التاني [open-source] [just released]</li>
-  <li><a href="رابط_مشروع_قادم" target="_blank" rel="noopener noreferrer">اسم_مشروع_قادم</a> - تطبيق موبايل جامد شغال عليه حالياً [upcoming]</li>
+  <li><a href="https://lnkd.in/gEjE2x5T" target="_blank" rel="noopener noreferrer">PAT</a> - Flutter AI Application made for farmers to detect insects in plants [product]</li>
 </ul>
 
 <br/> 
