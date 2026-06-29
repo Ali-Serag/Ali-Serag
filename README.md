@@ -16,13 +16,11 @@
 <br/> 
 
 <div>
-<a href="رابط_حسابك_على_اكس" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/AliSerag" target="_blank">
+<a href="[https://github.com/AliSerag](https://github.com/Ali-Serag)" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="رابط_حسابك_على_لينكد_إن" target="_blank">
+<a href="https://www.linkedin.com/in/ali-serag-426a6741a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>   
