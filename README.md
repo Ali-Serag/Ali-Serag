@@ -2,7 +2,7 @@
 
 #### Projects under my belt:
 <ul>
-  <li><a href="https://lnkd.in/gEjE2x5T" target="_blank" rel="noopener noreferrer">PAT</a> - Flutter AI Application made for farmers to detect insects in plants [product]</li>
+  <li><a href="https://t.me/+otKzI_3HHKQ5ODg0" target="_blank" rel="noopener noreferrer">PAT</a> - Flutter AI Application made for farmers to detect insects in plants [product]</li>
 </ul>
 
 <br/> 
