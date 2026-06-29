@@ -17,7 +17,7 @@
 
 <div>
 </a>
-<a href="[https://github.com/AliSerag](https://github.com/Ali-Serag)" target="_blank">
+<a href="https://github.com/Ali-Serag" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ali-serag-426a6741a/" target="_blank">
